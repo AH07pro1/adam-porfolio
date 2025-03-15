@@ -21,7 +21,7 @@ export default function About() {
           {/* About Me Section */}
           <h1 className="text-4xl font-semibold text-gray-800 mb-4">About Me</h1>
           <p className="text-lg text-gray-600 mb-6">
-            I'm a 14 years old developer with experience in full-stack development, design, and game development.
+            I am a 14 years old developer with experience in full-stack development, design, and game development.
             I  build clean, efficient, and user-friendly applications. I enjoy learning new technologies and building meaningful projects.
           </p>
           {/* Button Section */}

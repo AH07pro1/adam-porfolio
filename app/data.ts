@@ -20,7 +20,7 @@ const projectList = [
   },
   {
     title: "Twins4soft Website",
-    description: "My Company's website",
+    description: "The website of my company",
     date: new Date("2024-07-28"), // July 28, 2024
     link: "https://www.twins4soft.com/",
     image: twins4softwebsiteimage.src, // Correct way to get the image source
