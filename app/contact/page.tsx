@@ -30,7 +30,7 @@ export default function Contact() {
           {/* Button to go back or further action (optional) */}
           <div className="flex justify-center mt-8">
             <Button variant="default">
-              Go Back
+              <a href="/">Go Back</a>
             </Button>
           </div>
         </div>
