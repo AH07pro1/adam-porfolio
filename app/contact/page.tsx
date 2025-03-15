@@ -1,6 +1,7 @@
 "use client";
 
 import { Button } from "@/components/ui/button"; // Button component
+import Link from "next/link";
 
 export default function Contact() {
   return (
@@ -30,7 +31,7 @@ export default function Contact() {
           {/* Button to go back or further action (optional) */}
           <div className="flex justify-center mt-8">
             <Button variant="default">
-              <a href="/">Go Back</a>
+              <Link href="/">Go Back</Link>
             </Button>
           </div>
         </div>
